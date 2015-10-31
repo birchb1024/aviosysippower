@@ -9,11 +9,12 @@
 #       e.g. genyris ippower.g http://ippower admin 12345678 On On Off Off"
 #
 #
-# This code tested on Genyris 0.9.3-14-g356de25-8, 
-# this or a later version is be requried.
+# This program was tested on Genyris 0.9.3-14-g356de25-8, 
+# this or a later version is requried.
 #
-#  Genyris obtainable from GitHub & Sourceforge: 
+#  Genyris is obtainable from GitHub & Sourceforge: 
 #     http://sourceforge.net/projects/genyris/
+#     https://github.com/birchb1024/genyris
 #
 # 
 @prefix u   "http://www.genyris.org/lang/utilities#"
