@@ -10,7 +10,7 @@
 #
 #
 # This program was tested on Genyris 0.9.3-14-g356de25-8, 
-# this or a later version is requried.
+# this or a later version is required.
 #
 #  Genyris is obtainable from GitHub & Sourceforge: 
 #     http://sourceforge.net/projects/genyris/
