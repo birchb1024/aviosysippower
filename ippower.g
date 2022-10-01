@@ -4,9 +4,9 @@
 #
 # USAGE:
 #
-#   genyris ippower.g serverURL username password Port1 Port2 Port3 Port3"
+#   genyris ippower.g serverURL username password Port1 Port2 Port3 Port3
 # 
-#       e.g. genyris ippower.g http://ippower admin 12345678 On On Off Off"
+#       e.g. genyris ippower.g http://ippower admin 12345678 On On Off Off
 #
 #
 # This program was tested on Genyris 0.9.3-14-g356de25-8, 
